@@ -306,6 +306,6 @@ label span{
 @media only screen and (min-width: 991px){
 
     header .coluna-direita{
-        flex-basis: 70%;
+        flex-basis: 100%;
     }
 }
